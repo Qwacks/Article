@@ -1,0 +1,15 @@
+
+Fonts actively used in this project
+-----------------------------------
+
+Font name       :   Helvetica Neue eText Pro
+Font provider   :   fonts.com
+
+
+
+******************************************************************************
+
+
+
+
+Created by Typecast on 2016/10/27.
